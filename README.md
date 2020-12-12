@@ -1,6 +1,8 @@
 # Getting Started with Back-End Demo Node JS
 This back-end project was created using Node Js.\
-This database used for the API was MongoDB.\
+This database used for the API was MongoDB.
+
+The project uses Mongoose.Js to manage relationships between data, provides schema validation, and to translate between objects in code and the representation of those objects in MongoDB
 
 Please import the json files for the mongo db document@table.\
 Database name : `job-db`
