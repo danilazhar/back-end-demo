@@ -1,6 +1,6 @@
 # Getting Started with Back-End Demo Node JS
 This back-end project was created using Node Js.\
-This database used for the API was MongoDB.\
+This database used for the API was MongoDB.
 
 Please import the json files for the mongo db document@table.\
 Database name : `job-db`
