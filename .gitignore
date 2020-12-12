@@ -3,9 +3,6 @@
 # dependencies
 /node_modules
 
-# database
-/database
-
 # Logs
 logs
 

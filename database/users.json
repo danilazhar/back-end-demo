@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5fd1e66f3d1f773e24337caa"
+  },
+  "skillSets": [
+    "Laravel, NodeJS, ReactJS"
+  ],
+  "name": "Danil Azhar bin Herman Sagitarius",
+  "email": "danilazhar@gmail.com",
+  "phone": "+60173689492",
+  "hobby": [
+    "Badminton, Ping Pong"
+  ],
+  "createdAt": {
+    "$date": "2020-12-10T09:12:15.065Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-10T09:47:30.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd1eee793995f52687aba51"
+  },
+  "skillSets": [
+    "Laravel, NodeJS, VueJS"
+  ],
+  "hobby": [
+    "Badminton, Football"
+  ],
+  "name": "Luke Cage",
+  "email": "luke.cage@gmail.com",
+  "phone": "+60173869876",
+  "createdAt": {
+    "$date": "2020-12-10T09:48:23.162Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-10T09:48:23.162Z"
+  },
+  "__v": 0
+}]
